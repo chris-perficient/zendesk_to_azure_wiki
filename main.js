@@ -6,20 +6,20 @@ Copy the article's ID number from the URL (Example: https://perficient.zendesk.c
 
 Paste that ID number between the quotation marks on the line below
 */
-const articleToBeMoved = "360047225853";
+const articleToBeMoved = "360047339953";
 
 /*
 Use the list below to look up the ID number of the section that the article is located in.
 Copy the number the number at the end of that line, and paste it between the quotation marks below.
 */
-const fromSection = "360008436633";
+const fromSection = "360008568254";
 /*
 
 /* 
 Please choose which specific Wiki you want the article to transfer into, and paste between quotes on line below.
 You can choose from the options- "Wikis", "Technical", "Soft-Skills", or "General".
 */
-const whichWiki = "General";
+const whichWiki = "Technical";
 
 /*
 To create the Page in a specific folder, carefully type the folder name in the line below.
@@ -32,11 +32,6 @@ Click "File", then "Save", to save the current selections.
 From the top ribbon, select "Terminal", and then "New Terminal"
 In the terminal window at the bottom, type 'npm start' and hit Enter.
 */
-
-
-
-
-
 /*
 
 ******************** Below is a list of Sections and their cooresponding ID #s ********************
